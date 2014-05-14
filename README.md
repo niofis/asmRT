@@ -3,7 +3,7 @@ asmRT
 
 Simple raytracer implemented in x86 assembly using Intel syntax. It runs only on widows, and requires SDL to display graphics.
 
-#Build
+###Build
 
 To generate a binary you need the following:
 * [FASM assembler](http://flatassembler.net/)
@@ -19,7 +19,7 @@ And in order to run it you'll need these libraries and files:
 * [Free Image v3.12](http://freeimage.sourceforge.net/) (included).
 * Textures (included).
 
-#Usage
+###Usage
 
 To run simply execute asmRT.exe, there are a few key bindings you can try.
 
