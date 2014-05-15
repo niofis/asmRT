@@ -34,7 +34,10 @@ To run simply execute asmRT.exe, there are a few key bindings you can try.
 * [Escape]: Exit.
 * F1: Toggle extended frame info.
 
+###Screenshot
+![Screenshot](https://raw.githubusercontent.com/niofis/asmRT/master/screenshot.png)
 
-This program was written in 2009.
 
 Enrique CR.
+
+2009
